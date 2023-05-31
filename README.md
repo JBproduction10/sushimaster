@@ -1,6 +1,8 @@
 # <center><u>Sushimaster</u></center>
 
-Official link to the project hosted on Vercel [link](https://sushimaster.vercel.app/)
+Official link of the project hosted on Vercel [link](https://sushimaster.vercel.app/)
+
+Official link of my portfolio [link](https://jonathanb.vercel.app/)
 
 <img src="./assets/sushimaster.png"/>
 
