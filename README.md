@@ -1,6 +1,6 @@
 # <center><u>Sushimaster</u></center>
 
-Official link to the project hosted on Netlify [link](https://sushimaster.vercel.app/)
+Official link to the project hosted on Vercel [link](https://sushimaster.vercel.app/)
 
 <img src="./assets/sushimaster.png"/>
 
